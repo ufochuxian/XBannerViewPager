@@ -1,0 +1,1 @@
+从 [BannerViewPager](https://github.com/zhpanvip/BannerViewPager)，fork的代码，在此基础上改造，符合自己项目使用的需求，感谢[BannerViewPager](https://github.com/zhpanvip/BannerViewPager)

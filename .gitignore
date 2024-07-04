@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/release/output.json
+/app/release/app-release.apk
+/ideahttp/build/
+/app/release/output-metadata.json
